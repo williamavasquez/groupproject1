@@ -6,3 +6,10 @@
   3.b) click on collaborators, look them up by there handle
 
 4. Create files and go crazy
+
+git status --> lets you know the status of your branch
+git add -A  --> stages files to be commited
+git commit -m "XXXX" -> commits the files and adds a message
+git logs -->  check your commits
+git push --> push your commits to github
+git pull --> update your repository with the stuff from github
