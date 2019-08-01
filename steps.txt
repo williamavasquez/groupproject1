@@ -1,0 +1,8 @@
+1. Create Repository on Github.com ** make sure you click on the "create readme"
+2. clone the repository
+`git clone [linkcopiedfromgithub]
+3.Add other people as collaborators
+  3.a) go to setting - last item on the top
+  3.b) click on collaborators, look them up by there handle
+
+4. Create files and go crazy
