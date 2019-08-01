@@ -13,3 +13,6 @@ git commit -m "XXXX" -> commits the files and adds a message
 git logs -->  check your commits
 git push --> push your commits to github
 git pull --> update your repository with the stuff from github
+git checkout -b [nameofbranch ] --> creates branch
+git checkout [nameofbranchyouwantogo] -> switch branches
+
