@@ -16,3 +16,4 @@ git pull --> update your repository with the stuff from github
 git checkout -b [nameofbranch ] --> creates branch
 git checkout [nameofbranchyouwantogo] -> switch branches
 
+git push -u origin [nameofbranch] --> only once to push branch to github
